@@ -28,6 +28,8 @@ Visualized the distributions of variables, including gender and number of employ
 
 - Majority of respondents identified as either Male or Female.
 - Most organizations surveyed had more than 1000 employees.
+  ![Male or Female](graph.png)
+  ![Employees](graph2.png)
 
 ## Model Building
 
