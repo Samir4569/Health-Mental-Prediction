@@ -25,9 +25,7 @@ After loading the data, I performed several preprocessing steps:
 ## EDA
 
 Visualized the distributions of variables, including gender and number of employees. The key insights include:
-  - Majority of respondents identified as either Male or Female.
   ![Male or Female](graph.png)
-  - Most organizations surveyed had more than 1000 employees.
   ![Employees](graph2.png)
 
 ## Model Building
